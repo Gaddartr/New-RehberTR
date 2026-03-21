@@ -2,7 +2,6 @@
 title: "DarkBot Nedir?"
 ---
 
-## DarkBot Kısaca Nedir?
 
 **DarkBot**, Java programlama dili ile geliştirilmiş, temel olarak **Macro Mouse** işlevi gören bir yardımcı yazılımdır. 
 
