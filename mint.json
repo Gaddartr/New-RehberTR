@@ -1,10 +1,10 @@
 {
   "name": "DarkBot Profesyonel Rehber",
   "logo": {
-    "light": "/favicon.svg",
-    "dark": "/favicon.svg"
+    "light": "/icon.ico",
+    "dark": "/icon.ico"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/icon.ico",
   "colors": {
     "primary": "#3c3f41",
     "light": "#3c3f41",
