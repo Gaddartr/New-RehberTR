@@ -1,13 +1,29 @@
+---
+title: "Bot Ayarları"
+description: "Botunuzun temel arayüz, API ve görünüm ayarlarını buradan yapılandırabilirsiniz."
+---
+
 # Bot Ayarları
 
-> 📷 *Bot ayarları görseli buraya eklenecek*
+<Frame caption="ÖZELLİKLERİN ÜZERİNE FARENİZ İLE GELİP BEKLEDİĞİNİZ ZAMAN AÇIKLAMALARI ÇIKACAKTIR">
+  <img src="/images/001.png" />
+</Frame>
 
-{% hint style="warning" %}
-ÖZELLİKLERİN ÜZERİNE FARENİZ İLE GELİP BEKLEDİĞİNİZDE AÇIKLAMALARI ÇIKACAKTIR
-{% endhint %}
+<AccordionGroup>
+  <Accordion title="Bot Arayüzü" icon="desktop">
+    Pluginlerin bazı özelliklerini kullanabilmeniz için bot dilini **İngilizce** olarak ayarlamanız gerekebilir, bu kısımdan değişiklik yapabilirsiniz.
 
-* **Bot Arayüzü:** Pluginlerin bazı özelliklerini kullanabilmeniz için bot dilini **İngilizce** olarak ayarlamanız gerekebilir.
+    <Warning>Pencere pozisyonunu ve boyutunu kaydet kısmı şu an için stabil olarak çalışmamaktadır.</Warning>
+  </Accordion>
 
-* **API Ayarları:** Her zaman tavsiye edilen **(Recommended)** Tarayıcı/API kullanın. Botunuzun 3D olarak çalışmasını istiyorsanız özelliği aktif edin ve oyun ekranındaki görüntü ayarları kısmından 3D'yi seçtikten sonra botunuzu yeniden başlatın.
+  <Accordion title="API Ayarları" icon="gears">
+    Her zaman **Tavsiye Edilen (Recommended)** Tarayıcı/API ayarlarını kullanın.
 
-* **Harita Görünümü:** "Görüntülemeyi Aç/Kapat" kısmından bot mini ekranınızda görmek istediğiniz veya istemediğiniz bilgileri düzenleyebilirsiniz.
+    * **3D Modu:** Botunuzun 3D olarak çalışmasını istiyorsanız özelliği aktif edin. Oyun ekranındaki görüntü ayarları kısmından 3D'yi seçtikten sonra botunuzu yeniden başlatın.
+    * **FPS Ayarı:** Botunuzu ilk kullanmaya başladığınızda FPS kısmı varsayılan değerlerde görünecektir. Manuel olarak ayarlarınızı bu kısımdan değiştirebilirsiniz.
+  </Accordion>
+
+  <Accordion title="Harita Görünümü" icon="map">
+    **Görüntülemeyi Aç/Kapat** kısmından bot mini ekranınızda görmek istediğiniz veya istemediğiniz bilgileri (yaratıklar, kutular, istasyonlar vb.) kolayca düzenleyebilirsiniz.
+  </Accordion>
+</AccordionGroup>
