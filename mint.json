@@ -1,9 +1,5 @@
 {
   "name": "DarkBot TR Rehber",
-  "logo": {
-    "light": "/icon.png",
-    "dark": "/icon.png"
-  },
   "favicon": "/icon.ico",
   "stylesheets": [
     "/custom.css"
