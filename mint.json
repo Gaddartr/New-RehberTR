@@ -32,9 +32,29 @@
         "grup-ozelligi-kullanimi",
         "diger",
         "bot-ayarlari",
-        "plugins",
         "harita-alanlari-kullanimi",
         "oyun-ici-ayarlar"
+      ]
+    },
+    {
+      "group": "EKLENTİLER",
+      "pages": [
+        "plugin/default-plugin",
+        "plugin/darkplane",
+        "plugin/dks-plugin",
+        "plugin/dm-plugin",
+        "plugin/donor-plugin",
+        "plugin/kekka-plugin",
+        "plugin/kekw-plugin",
+        "plugin/launch-plugin",
+        "plugin/lean-plugin",
+        "plugin/minicore-plugin",
+        "plugin/osiris-plugin",
+        "plugin/penguin-plugin",
+        "plugin/pika-plugin",
+        "plugin/reee-plugin",
+        "plugin/tyx-plugin",
+        "plugin/vot-plugin"
       ]
     }
   ]
