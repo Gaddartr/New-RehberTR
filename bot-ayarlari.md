@@ -13,9 +13,6 @@ description: "Botunuzun temel arayüz, API ve görünüm ayarlarını buradan ya
   <Accordion title="Bot Arayüzü" icon="desktop">
     Pluginlerin bazı özelliklerini kullanabilmeniz için bot dilini **İngilizce** olarak ayarlamanız gerekebilir, bu kısımdan değişiklik yapabilirsiniz.
 
-    <Warning>Pencere pozisyonunu ve boyutunu kaydet kısmı şu an için stabil olarak çalışmamaktadır.</Warning>
-  </Accordion>
-
   <Accordion title="API Ayarları" icon="gears">
     Her zaman **Tavsiye Edilen (Recommended)** Tarayıcı/API ayarlarını kullanın.
 
