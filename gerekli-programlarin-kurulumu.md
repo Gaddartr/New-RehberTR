@@ -28,10 +28,6 @@ Bot gereksinimleriniz karşılandığında buradan kurulum adımlarını öğren
 * Javaları ve C++ yazılımını yükledikten sonra bilgisayarınızı yeniden başlatın.
 * **Denetim masası > Programlar ve Özellikler** bölümüne girerek yüklü olan uygulamaları kontrol edebilirsiniz.
 
-> 📷 *Yüklü programları kontrol etme görseli aşağıdadır:*
-
-![Denetim Masası Kontrolü](/images/003.png)
-
----
+<img src="/images/003.png" />
 
 * Program kurulumu tamamlandıktan sonra **Runtimes'ı** silebilirsiniz.
