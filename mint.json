@@ -5,6 +5,9 @@
     "dark": "/icon.png"
   },
   "favicon": "/icon.ico",
+  "stylesheets": [
+    "/custom.css"
+  ],
   "colors": {
     "primary": "#3c3f41",
     "light": "#3c3f41",
