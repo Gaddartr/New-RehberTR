@@ -13,11 +13,15 @@
   "navigation": [
     {
       "group": "Başlangıç",
-      "pages": ["indeks", "hizlibaslangic"]
+      "pages": [
+        "indeks",
+        "hizlibaslangic"
+      ]
     },
     {
-      "group": "Rehber İçerikleri",
-      "pages": [] 
+      "group": "Bot Rehberi",
+      "pages": []
     }
-  ]
+  ],
+  "tabs": []
 }
