@@ -5,13 +5,13 @@
     "dark": "/favicon.svg"
   },
   "favicon": "/favicon.svg",
-  "theme": "dark",
   "colors": {
     "primary": "#3c3f41",
     "light": "#3c3f41",
     "dark": "#3c3f41",
-    "background": {
-      "dark": "#3c3f41"
+    "anchors": {
+      "from": "#3c3f41",
+      "to": "#3c3f41"
     }
   },
   "navigation": [
