@@ -1,35 +1,41 @@
-"navigation": [
-  {
-    "group": "KURULUM",
-    "pages": [
-      "darkbot-nedir",
-      "program-kurulumu",
-      "indirme-ve-calistirma",
-      "bot-guncelleme",
-      "hata-cozumleri",
-      "sikca-sorulan-sorular"
-    ]
+{
+  "name": "DarkBot Profesyonel Rehber",
+  "logo": {
+    "light": "/favicon.svg",
+    "dark": "/favicon.svg"
   },
-  {
-    "group": "BOT KULLANIMI VE AYARLARI",
-    "pages": [
-      "bot-kullanimi",
-      "genel",
-      "toplama",
-      {
-        "group": "Yaratık Öldürücü",
-        "pages": [
-          "yaratik-oldurucu-liste",
-          "yaratik-oldurucu-ayarlar"
-        ]
-      },
-      "pet",
-      "grup-ozelligi-kullanimi",
-      "diger",
-      "bot-ayarlari",
-      "plugins",
-      "harita-alanlari-kullanimi",
-      "oyun-ici-ayarlar"
-    ]
-  }
-]
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#46494b",
+    "light": "#46494b",
+    "dark": "#46494b"
+  },
+  "navigation": [
+    {
+      "group": "KURULUM",
+      "pages": [
+        "darkbot-nedir",
+        "program-kurulumu",
+        "indirme-ve-calistirma",
+        "bot-guncelleme",
+        "hata-cozumleri",
+        "sikca-sorulan-sorular"
+      ]
+    },
+    {
+      "group": "BOT KULLANIMI VE AYARLARI",
+      "pages": [
+        "bot-kullanimi",
+        "genel",
+        "toplama",
+        "pet",
+        "grup-ozelligi-kullanimi",
+        "diger",
+        "bot-ayarlari",
+        "plugins",
+        "harita-alanlari-kullanimi",
+        "oyun-ici-ayarlar"
+      ]
+    }
+  ]
+}
