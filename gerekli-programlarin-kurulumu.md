@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Gerekli Programların Kurulumu"
 ---
-
-# Gerekli Programların Kurulumu
 
 Bot gereksinimleriniz karşılandığında buradan kurulum adımlarını öğrenebilirsiniz.
 
@@ -22,12 +20,12 @@ Bot gereksinimleriniz karşılandığında buradan kurulum adımlarını öğren
 
 ## Program Kurulumu
 
-* Java SE Development kit ve Microsoft Visual C++ yazılımının bulunduğu tek paketi indirin. Eclipse temurin ve diğer Javalarınızı sildikten sonra aşağıdaki paketi yükleyin.
+* <span class="green-bold">Java SE Development kit</span> ve <span class="green-bold">Microsoft Visual C++</span> yazılımının bulunduğu tek paketi indirin. Eclipse temurin ve diğer Javalarınızı sildikten sonra aşağıdaki paketi yükleyin.
   * [**Runtimes-Güncel indir. (Java SE 17 ve C++)**](https://disk.yandex.com.tr/d/huC8RVdNQf8cgw)
-* Runtimes'ın içerisindeki **"C++"** ve **"Java"** programlarını bilgisayarınıza kurun, eğer hata alırsanız **yönetici olarak** çalıştırın.
+* Runtimes'ın içerisindeki <span class="green-bold">"C++"</span> ve <span class="green-bold">"Java"</span> programlarını bilgisayarınıza kurun, eğer hata alırsanız <span class="green-bold">yönetici olarak</span> çalıştırın.
 * Javaları ve C++ yazılımını yükledikten sonra bilgisayarınızı yeniden başlatın.
-* **Denetim masası > Programlar ve Özellikler** bölümüne girerek yüklü olan uygulamaları kontrol edebilirsiniz.
+* <span class="green-bold">Denetim masası &gt; Programlar ve Özellikler</span> bölümüne girerek yüklü olan uygulamaları kontrol edebilirsiniz.
 
 <img src="/images/003.png" />
 
-* Program kurulumu tamamlandıktan sonra **Runtimes'ı** silebilirsiniz.
+* Program kurulumu tamamlandıktan sonra <span class="green-bold">Runtimes'ı</span> silebilirsiniz.
