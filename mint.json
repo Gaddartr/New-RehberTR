@@ -19,8 +19,21 @@
       ]
     },
     {
-      "group": "Botlar",
-      "pages": []
+      "group": "Bot Rehberi",
+      "pages": [
+        "genel",
+        "bot-ayarlari",
+        "bot-kullanimi",
+        "oyun-ici-ayarlar",
+        "harita-alanlari",
+        "yaratik-oldurucu",
+        "yaratik-oldurucu-liste",
+        "toplama",
+        "pet",
+        "grup-kullanimi",
+        "plugins",
+        "diger"
+      ]
     }
   ],
   "tabs": []
