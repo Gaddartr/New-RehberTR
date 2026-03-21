@@ -6,9 +6,9 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#46494b",
-    "light": "#46494b",
-    "dark": "#46494b"
+    "primary": "#3c3f41",
+    "light": "#3c3f41",
+    "dark": "#3c3f41"
   },
   "navigation": [
     {
@@ -39,23 +39,23 @@
     {
       "group": "EKLENTİLER",
       "pages": [
-        "plugin/default-plugin",
-        "plugin/darkplane",
-        "plugin/dks-plugin",
-        "plugin/dm-plugin",
-        "plugin/donor-plugin",
-        "plugin/kekka-plugin",
-        "plugin/kekw-plugin",
-        "plugin/launch-plugin",
-        "plugin/lean-plugin",
-        "plugin/minicore-plugin",
-        "plugin/osiris-plugin",
+        { "page": "plugin/default-plugin", "name": "Default Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/darkplane", "name": "Darkplane (Bağışçılara Özel)" },
+        { "page": "plugin/dks-plugin", "name": "Dks Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/dm-plugin", "name": "Dm Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/donor-plugin", "name": "Donor Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/kekka-plugin", "name": "Kekka Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/kekw-plugin", "name": "Kekw Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/launch-plugin", "name": "Launch Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/lean-plugin", "name": "Lean Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/minicore-plugin", "name": "Minicore Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/osiris-plugin", "name": "Osiris Plugin (Bağışçılara Özel)" },
         "plugin/penguin-plugin",
-        "plugin/pika-plugin",
-        "plugin/reee-plugin",
+        { "page": "plugin/pika-plugin", "name": "Pika Plugin (Bağışçılara Özel)" },
+        { "page": "plugin/reee-plugin", "name": "Reee Plugin (Bağışçılara Özel)" },
         "plugin/tyx-plugin",
         "plugin/shared-plugin",
-        "plugin/vot-plugin"
+        { "page": "plugin/vot-plugin", "name": "Vot Plugin (Bağışçılara Özel)" }
       ]
     }
   ]
