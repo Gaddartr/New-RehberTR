@@ -54,6 +54,7 @@
         "plugin/pika-plugin",
         "plugin/reee-plugin",
         "plugin/tyx-plugin",
+        "plugin/shared-plugin",
         "plugin/vot-plugin"
       ]
     }
