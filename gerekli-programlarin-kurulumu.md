@@ -1,5 +1,5 @@
 ---
-title: "Program Kurulumu"
+title: "Gerekli Programların Kurulumu"
 ---
 
 Bot gereksinimleriniz karşılandığında buradan kurulum adımlarını öğrenebilirsiniz.
