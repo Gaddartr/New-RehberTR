@@ -18,3 +18,9 @@ nav h2,
     color: #67a681 !important;
     font-weight: 700 !important;
 }
+
+.green-bold a,
+a .green-bold {
+    color: #67a681 !important;
+    font-weight: 700 !important;
+}
