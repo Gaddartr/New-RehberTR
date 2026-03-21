@@ -1,10 +1,14 @@
-/* Sidebar grup başlıkları - Kesin çözüm denemesi */
-h2, 
-.sidebar-group-title, 
-[class*="SidebarGroupTitle"], 
-nav div div h2,
-div[class*="SidebarGroupHeader"] h2 {
+/* Sidebar ana grup başlıklarını (KURULUM vb.) hedef alır */
+.sidebar-group-title,
+[class*="SidebarGroupTitle"],
+h2[class*="SidebarGroupTitle"],
+nav h2,
+.mt-4.mb-2.text-xs.font-semibold {
     color: #6a8eaa !important;
     opacity: 1 !important;
-    font-weight: 700 !important;
+}
+
+/* Başlıkların altındaki çizgiler veya boşluklar için ek düzenleme */
+.sidebar-group-header {
+    color: #6a8eaa !important;
 }
