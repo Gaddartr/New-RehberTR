@@ -5,7 +5,7 @@ title: "Darkbot İndirme ve Çalıştırma"
 ## BAĞIŞÇI OLMAYANLAR İÇİN KURULUM
 
 * [Discord](https://discord.gg/bEFgxCy) kanalımıza katılmanız gerekmektedir.
-* Discord uygulaması üzerinden <span class="green-bold">#unstable-download</span> kanalına giriş yapın.
+* Discord uygulaması üzerinden [<span class="green-bold">#unstable-download</span>](https://discord.com/channels/523159099870019584/534807308212109323) kanalına giriş yapın.
 * Kanalda en alttaki mesaja inerek <span class="green-bold">EN GÜNCEL</span> <span class="green-bold">"Darkbot.jar"</span> sürümü bulup indirin.
 * Masaüstünüzde yeni bir klasör oluşturun.
 * İndirmiş olduğunuz <span class="green-bold">"Darkbot.jar"</span> dosyasını klasörün içerisine taşıyın.
@@ -20,7 +20,7 @@ title: "Darkbot İndirme ve Çalıştırma"
 ## BAĞIŞÇILAR İÇİN KURULUM
 
 * [Discord](https://discord.gg/bEFgxCy) kanalımıza katılmanız gerekmektedir.
-* Discord uygulaması üzerinden <span class="green-bold">#experimental-download</span> kanalına giriş yapın.
+* Discord uygulaması üzerinden [<span class="green-bold">#experimental-download</span>](https://discord.com/channels/523159099870019584/700014610589286420) kanalına giriş yapın.
 * Kanalda en alttaki mesaja inerek <span class="green-bold">EN GÜNCEL</span> <span class="green-bold">"Darkbot.jar"</span> sürümü bulup indirin.
 * Masaüstünüzde yeni bir klasör oluşturun.
 * İndirmiş olduğunuz <span class="green-bold">"Darkbot.jar"</span> dosyasını klasörün içerisine taşıyın.
