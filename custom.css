@@ -12,3 +12,9 @@ nav h2,
 .sidebar-group-header {
     color: #6a8eaa !important;
 }
+
+/* Rehber içindeki yeşil ve kalın vurgu metinleri */
+.green-bold {
+    color: #67a681 !important;
+    font-weight: 700 !important;
+}
