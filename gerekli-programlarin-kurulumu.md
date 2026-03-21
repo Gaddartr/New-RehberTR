@@ -6,7 +6,7 @@ Bot gereksinimleriniz karşılandığında buradan kurulum adımlarını öğren
 
 * Bot **Windows10-11** ve **64 bit** mimarisi üzerinde çalışmaktadır.
 * Ayrıca **windows7** **64 bit** mimarisinde çalışır ancak, **Bot desteği verilmemektedir.**
-* DarkBot **Linux** ve **Ubuntu** işletim sistemlerini desteklemektedir 
+* DarkBot **Linux** ve **Ubuntu** işletim sistemlerini desteklemektedir ( Çalıştırabilirsiniz ).
 * Sanal sunucu (VDS) **Windows Server 2019**'da çalışmaktadır.
 * **Java SE 17** programı bilgisayarınızda yüklü olmalıdır.
 * **Microsoft Visual C++ 2015-2019** ve üzeri bir sürüm kullanmanız gerekmektedir.
