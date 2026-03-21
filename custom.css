@@ -1,14 +1,10 @@
-/* Sidebar grup başlıkları (KURULUM, EKLENTİLER vb.) */
+/* Sidebar grup başlıkları - Kesin çözüm denemesi */
+h2, 
 .sidebar-group-title, 
-h2.sidebar-group-title,
-[class*="SidebarGroupTitle"],
-.sidebar-group-header h2 {
+[class*="SidebarGroupTitle"], 
+nav div div h2,
+div[class*="SidebarGroupHeader"] h2 {
     color: #6a8eaa !important;
+    opacity: 1 !important;
     font-weight: 700 !important;
-    text-transform: uppercase !important;
-}
-
-/* Navigasyon konteyneri içindeki tüm h2 başlıklar */
-nav h2 {
-    color: #6a8eaa !important;
 }
