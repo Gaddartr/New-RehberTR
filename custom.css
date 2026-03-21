@@ -1,10 +1,14 @@
-/* Sidebar grup başlıklarının rengini değiştirir */
-.sidebar-group-title {
-  color: #6a8eaa !important;
+/* Sidebar grup başlıkları (KURULUM, EKLENTİLER vb.) */
+.sidebar-group-title, 
+h2.sidebar-group-title,
+[class*="SidebarGroupTitle"],
+.sidebar-group-header h2 {
+    color: #6a8eaa !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
 }
 
-/* Eğer yukarıdaki sınıf işe yaramazsa alternatif olarak bunu da ekle: */
-#sidebar nav > div > div > h2 {
-  color: #6a8eaa !important;
-  font-weight: bold;
+/* Navigasyon konteyneri içindeki tüm h2 başlıklar */
+nav h2 {
+    color: #6a8eaa !important;
 }
