@@ -50,11 +50,11 @@
         { "page": "plugin/lean-plugin", "name": "Lean Plugin (Bağışçılara Özel)" },
         { "page": "plugin/minicore-plugin", "name": "Minicore Plugin (Bağışçılara Özel)" },
         { "page": "plugin/osiris-plugin", "name": "Osiris Plugin (Bağışçılara Özel)" },
-        "plugin/penguin-plugin",
+        { "page": "plugin/penguin-plugin", "name": "Penguin Plugin" },
         { "page": "plugin/pika-plugin", "name": "Pika Plugin (Bağışçılara Özel)" },
         { "page": "plugin/reee-plugin", "name": "Reee Plugin (Bağışçılara Özel)" },
-        "plugin/tyx-plugin",
-        "plugin/shared-plugin",
+        { "page": "plugin/tyx-plugin", "name": "Tyx Plugin" },
+        { "page": "plugin/shared-plugin", "name": "Shared Plugin" },
         { "page": "plugin/vot-plugin", "name": "Vot Plugin (Bağışçılara Özel)" }
       ]
     }
