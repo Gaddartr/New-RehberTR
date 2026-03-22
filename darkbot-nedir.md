@@ -19,6 +19,6 @@ Sizin yerinize bilgisayar başında beklemek yerine, atadığınız komutları v
 
 Bot klasöründe bulunan dosyaların ne işe yaradığı aşağıda detaylandırılmıştır:
 
-![Bot Klasör Yapısı](/images/0001.webp) 
+![Bot Klasör Yapısı](/images/0001.webp?v=1) 
 
 > **Not:** Görseldeki oklarla işaretlenen dosyalar, botun düzgün çalışması için kritik öneme sahiptir. Özellikle `config.json` dosyanızın yedeğini almayı unutmayın.
