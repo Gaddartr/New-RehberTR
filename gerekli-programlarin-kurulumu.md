@@ -28,9 +28,7 @@ Bot gereksinimleriniz karşılandığında buradan kurulum adımlarını öğren
 * Javaları ve C++ yazılımını yükledikten sonra bilgisayarınızı yeniden başlatın.
 * **Denetim masası > Programlar ve Özellikler** bölümüne girerek yüklü olan uygulamaları kontrol edebilirsiniz.
 
-> 📷 *Yüklü programları kontrol etme görseli aşağıdadır:*
-
-<img src="/images/0001.webp" alt="Yüklü Programlar Kontrolü" style={{ borderRadius: '0.5rem' }} />
+<img src="/images/0002.webp" alt="Yüklü Programlar Kontrolü" style={{ borderRadius: '0.5rem' }} />
 
 ---
 
